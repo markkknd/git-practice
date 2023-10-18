@@ -17,3 +17,6 @@ asdfsa
 20230506 1130 added
 
 20231009 2308 added     MatebookXpro Ubuntu 
+
+20231018 1118 MatebookXpro Ubuntu added for “Git rebase”
+
