@@ -20,4 +20,10 @@ new file2
 
 20231020 2348 Vscode added
 
+<<<<<<< HEAD
 1021 windows added
+=======
+1021 github added
+>>>>>>> 06e24696194ee33e0669bc89079656d5338d2358
+
+git  merged
