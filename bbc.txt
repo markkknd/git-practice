@@ -28,4 +28,10 @@ new file2
 
 git  merged
 
+<<<<<<< HEAD
 github added for git rebase
+=======
+MatebookXpro added for git rebase
+>>>>>>> c68e59b (Matebook added for rebase)
+
+rebase continue
