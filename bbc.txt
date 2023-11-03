@@ -17,5 +17,3 @@ new file2
 20231009 2322 ubuntu added
 
 20231009 2323 ubuntu added
-
-20231103 Vscode Windows Remote to Ubuntu
